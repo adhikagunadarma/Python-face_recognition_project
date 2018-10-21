@@ -1,0 +1,5 @@
+hog bikin sndiri
+adaboost -> weakclassify pake ga pake sign
+
+hog + adaboost -> 
+hog+pca+adaboost -> 

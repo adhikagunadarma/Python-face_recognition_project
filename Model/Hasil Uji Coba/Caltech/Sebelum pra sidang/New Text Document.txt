@@ -1,0 +1,5 @@
+hog masi pake lib
+adaboost -> weakclassify pake sign
+
+hog + adaboost -> 8,16,4 + 5
+hog+pca+adaboost -> 4,8,9 + 15 + 10
